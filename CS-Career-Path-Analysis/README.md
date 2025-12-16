@@ -67,5 +67,29 @@ This project aims to answer that question by analyzing a dataset of **5,000 CS c
 ### 1. Clone the Repository
 ```bash
 git clone [https://github.com/AmrKhaled545/CS-Career-Path-SQL-Analysis.git]
+```
+
+### 2. Clone the Repository
+```bash
+CREATE DATABASE Nti_Training_SQL; 
+USE Nti_Training_SQL;
+```
+### 3. Import Data
+Import the raw CSV/Excel dataset into a table named `CS_Fields_Tracks`.
+
+### 4. Run the Analysis
+Open `SQLQuery2.sql` and execute the queries section by section to follow the narrative.
+
+---
+
+## 🤝 Acknowledgments
+* **Instructor:** Dina Mohsen – For guidance, support, and motivation throughout the journey.
+* **Program:** National Telecommunication Institute (NTI) training.
+
+---
+
+## 📬 Contact
+**Amr Khaled** Feel free to reach out if you have any questions or want to discuss data analysis!
+
 
 
