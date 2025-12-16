@@ -66,5 +66,6 @@ This project aims to answer that question by analyzing a dataset of **5,000 CS c
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/AmrKhaled545/CS-Career-Path-SQL-Analysis.git](https://github.com/AmrKhaled545/CS-Career-Path-SQL-Analysis.git)
+git clone [https://github.com/AmrKhaled545/CS-Career-Path-SQL-Analysis.git]
+
 
