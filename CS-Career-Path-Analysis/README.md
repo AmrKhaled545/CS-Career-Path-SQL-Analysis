@@ -3,7 +3,7 @@
 ### 🚀 Choosing the Right Path in Tech using SQL
 
 **Author:** Amr Khaled  
-[cite_start]**Institution:** National Telecommunication Institute (NTI) [cite: 77, 80]
+**Institution:** National Telecommunication Institute (NTI) 
 
 ---
 
@@ -90,6 +90,7 @@ Open `SQLQuery2.sql` and execute the queries section by section to follow the na
 
 ## 📬 Contact
 **Amr Khaled** Feel free to reach out if you have any questions or want to discuss data analysis!
+
 
 
 
